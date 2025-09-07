@@ -7,7 +7,9 @@ This PoC decrypts passwords stored in Roundcube session data. Set the variables 
 php -f POC_decrypt.php
 ```
 
-![[Pasted image 20250907214447.png]]
+![Screenshot](Pasted image 20250907214447.png)
+
+
 
 
 
